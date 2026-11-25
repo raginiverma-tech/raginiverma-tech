@@ -1,5 +1,7 @@
 ## 💫Hi 👋, I'm Ragini Verma
 
+Passionate IT student building projects with Python, MySQL, Excel, and Power BI. Aspiring Data Analyst focused on data-driven solutions and continuous learning.
+
 <!--
 **raginiverma-tech/raginiverma-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
